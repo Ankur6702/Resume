@@ -49,16 +49,6 @@
     ],
     "skills": [
         {
-            "level": "Beginner",
-            "keywords": [
-                "React Js",
-                "Node Js",
-                "Express Js",
-                "Php",
-                "MySQL"
-            ]
-        },
-        {
             "level": "Intermediate",
             "keywords": [
                 "C/C++",
@@ -67,6 +57,16 @@
                 "Javascript",
                 "Typescript",
                 "Git"
+            ]
+        },
+        {
+            "level": "Beginner",
+            "keywords": [
+                "React Js",
+                "Node Js",
+                "Express Js",
+                "Php",
+                "MySQL"
             ]
         }
     ],
