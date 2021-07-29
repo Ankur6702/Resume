@@ -51,15 +51,21 @@
         {
             "level": "Beginner",
             "keywords": [
+                "React Js",
+                "Node Js",
+                "Express Js",
+                "Php",
+                "MySQL"
+            ]
+        },
+        {
+            "level": "Intermediate",
+            "keywords": [
                 "C/C++",
                 "HTML",
                 "CSS",
                 "Javascript",
                 "Typescript",
-                "Node Js",
-                "Express Js",
-                "Php",
-                "MySQL",
                 "Git"
             ]
         }
