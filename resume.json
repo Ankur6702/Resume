@@ -1,0 +1,81 @@
+{
+    "basics": {
+        "name": "Ankur Agarwal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/74523865?v=4",
+        "email": "2020kucp1096@iiitkota.ac.in",
+        "phone": "8279443413",
+        "summary": "Programming fascinates me and this is what I do most of the time. I enjoy learning new things and try to improve myself daily. Currently, I'm indulged in competitive programming and web development. You can visit my social handles to connect with me.",
+        "location": {
+            "postalCode": "202001",
+            "city": "Aligarh",
+            "countryCode": "India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "_Ankur_Agarwal",
+                "url": "https://www.twitter.com/_Ankur_Agarwal_"
+            },
+            {
+                "network": "Github",
+                "username": "Ankur6702",
+                "url": "https://www.github.com/Ankur6702/"
+            },
+            {
+                "network": "linkedin",
+                "username": "ankur-agarwal-840927200",
+                "url": "https://www.linkedin.com/in/ankur-agarwal-840927200/"
+            },
+            {
+                "network": "Instagram",
+                "username": "ankur_agarwal_246",
+                "url": "https://instagram.com/ankur_agarwal_246/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2020-02-12 //Date",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "C/C++",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Typescript",
+                "Node Js",
+                "Express Js",
+                "Php",
+                "MySQL"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Chess",
+                "Cricket"
+            ]
+        },
+        {
+            "name": "Music",
+            "keywords": [
+                "Casio"
+            ]
+        }
+    ],
+    "references": []
+}
